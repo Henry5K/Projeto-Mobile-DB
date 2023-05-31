@@ -3,6 +3,10 @@ import { View, Text, TouchableOpacity, TextInput, Alert } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { styles } from '../styles/perfil.jsx';
 
+// -----------------
+//     INPUTS
+// -----------------
+
 const PerfilScreen = () => {
   const [nome, setNome] = useState('');
   const [nascimento, setNascimento] = useState('');
@@ -31,7 +35,10 @@ const PerfilScreen = () => {
       return;
     }
 
-    // Aqui você pode salvar as preferências do usuário, por exemplo, em um banco de dados
+// -----------------
+//     IMPRIME
+// -----------------
+    
     console.log('Nome:', nome);
     console.log('Data de Nascimento:', nascimento);
     console.log('Email:', email);
@@ -39,6 +46,10 @@ const PerfilScreen = () => {
 
     Alert.alert('Sucesso', 'Preferências salvas com sucesso!');
   };
+  
+// -----------------
+//   RENDERIZACAO
+// -----------------  
 
   return (
     <View style={styles.container}>
