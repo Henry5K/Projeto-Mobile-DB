@@ -1,54 +1,31 @@
-# Artigo: 
-Criação de um aplicativo móvel sobre exercícios físicos: Impacto na vida das pessoas e protótipo.
+# Objetivos
+
+> Neste projeto, nosso objetivo é desenvolver um aplicativo que proporcione uma melhor qualidade de vida à sociedade, oferecendo meios fáceis e acessíveis para a prática de exercícios físicos e instruções para alcançar hábitos mais saudáveis. Acreditamos que essa iniciativa terá um grande impacto na vida das pessoas, incentivando-as a se exercitarem regularmente e a melhorar sua saúde física e mental.
 
 ---
 
-> Q1: 
-> Necessidade do aplicativo:
+# Alunos
 
-> Visando proporcionar uma melhor qualidade de vida a sociedade, meios e caminhos fáceis para a prática de exercícios físicos e
-> instruções para alcançar hábitos mais saúdaveis, desde lembretes personalizados sobre alimentação, até calculo de calorias, 
-> a criação de um app para exercícios físicos poderá ter um grande impacto na vida das pessoas, 
-> incentivando-as a se exercitarem regularmente e melhorar sua saúde física e mental. 
-
-> Para que o aplicativo seja eficaz, ele deve conter informações relevantes sobre treinamento, nutrição e motivação,
-> bem como recursos interativos, como gráficos de progresso e lembretes de treinamento.
-
-> Q2:
-> Impacto na vida das pessoas:
-
-> Segundo dados da Organização Mundial da Saúde (OMS),
-> o Brasil é país com mais pessoas ansieosas do mundo, cerca de 10% da população sofre de ansiedade patologica, além disso cerca de 70% da 
-> sociedade já sofreu ou sofre de algum sintoma relativo a estresse ou ansiedade, como insônia, burnout, pressão alta, irritabilidade em excesso, etc.   
-
-> O uso do aplicativo pode, então, ajudar as pessoas a atingirem não apenas seus objetivos de fitness, como perda de peso, ou
-> ganho de massa muscular, mas indo além disso, o uso regular ajudaria a aumentar a autoestima,
-> reduzir o estresse, combater a ansiedade e melhorar a qualidade do sono.
-
-> Q3:
-> Informações necessárias no aplicativo:
-
-> O aplicativo deve conter informações relevantes sobre treinamento, incluindo exercícios específicos, duração e frequência,
-> além de planos de treinamento personalizados com base no objetivo do usuário. 
-
-> Além disso, o aplicativo deve fornecer informações sobre nutrição e hábitos saudáveis,
-> como opções de refeições saudáveis e contagem de calorias. Por fim, recursos interativos, como gráficos de progresso e lembretes de treinamento, 
-> podem ajudar a manter a motivação do usuário e garantir que eles estejam no caminho certo para alcançar seus objetivos.
+- 01531883 - Henry Thierry de Santana Silva
+- 01530700 - Eduardo Henrique Bezerra dos Santos
+- 01542139 - João Gabriel Candido de Melo
 
 ---
 
-# Protótipo do aplicativo:
+# Fotos
 
-> O protótipo do app irá incluir uma tela inicial com opções de treinamento, tempos de treino e login do usuário.
-> Dentro de cada uma dessas categorias, os usuários podem selecionar opções específicas, como treinamento de força ou treinamento cardiovascular,
-> ou opções de refeições saudáveis ​​e contagem de calorias.
-> Recursos adicionais, como gráficos de progresso e lembretes de treinamento, 
-também podem ser adicionados para garantir que o usuário mantenha o foco em seus objetivos de fitness.
-> Por último o protótipo também deve ser fácil de usar e ter uma interface amigável para garantir que os usuários
-> possam acessar as informações e recursos de maneira rápida e fácil.
+![WhatsApp Image 2023-06-06 at 9 55 39 AM (2)](https://github.com/Henry5K/Projeto-Mobile-DB/assets/100979680/f51d2fbd-e5a9-4b63-b7f3-ff6e45fa3288)
 
-# Feito por
+---
 
-* 01531883 - Henry Thierry de Santana Silva
-* 01530700 - Eduardo Henrique Bezerra dos Santos
-* 01542139 - Jão Gabriel Candido de Melo
+![WhatsApp Image 2023-06-06 at 9 55 39 AM (1)](https://github.com/Henry5K/Projeto-Mobile-DB/assets/100979680/83c11d7a-a33b-46ca-88ed-902752558667)
+
+---
+
+![WhatsApp Image 2023-06-06 at 9 55 39 AM](https://github.com/Henry5K/Projeto-Mobile-DB/assets/100979680/6ce447c8-974c-4466-b077-5cf51c817abe)
+
+---
+
+![WhatsApp Image 2023-06-06 at 9 55 38 AM](https://github.com/Henry5K/Projeto-Mobile-DB/assets/100979680/391c1830-46dc-4c47-b079-81ae756f0a4e)
+
+---
